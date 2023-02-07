@@ -1,5 +1,5 @@
 # Diabetes-Diagnostic-App
-The objective is to use the dataset from diabetes labs along with experimenting with different Machine Learning algorithms to predict diabetes based on diagnostic measurements.
+The objective is to use the dataset from diabetes labs to train a Machine Learning model to predict diabetes based on diagnostic measurements. The app allows you to pick between six different algorithms as your classifier model. 
 
 ### Project Description
 We can use the historical diagnostic data of the patients who were tested for diabetes in order to calculate the risk of diabetes for other patients who have taken other lab exams that were needed for this prediction.
@@ -25,7 +25,7 @@ Pandas
 Matplotlib
 
 ### Instructions:
-To run the app, after downloading the files, and we just need to run the below python command, and then the app will be serving in the localhost. (We also need to set the path of the csv file)
+To run the app, first download the files, and we just need to run the below python command, and then the app will be serving in the localhost. (We also need to set the path of the csv file)
 Python predict-diabetes-app.py
 
 ### Data source:
