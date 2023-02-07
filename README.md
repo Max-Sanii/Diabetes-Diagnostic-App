@@ -1,11 +1,11 @@
 # Diabetes-Diagnostic-App
 This is a web-based app that I developed with Dash framework and Python in 2021 as one of the projects in the Artificial Intelligence Graduate Program at the University of San Diego. The objective is to use the dataset from diabetes labs to train a Machine Learning model to predict diabetes based on diagnostic measurements. The app allows you to pick between six different algorithms as your classifier model; in addition, it can find the algorithm with the best performance for your data.
 
-### Introduction 
+## Introduction 
 We can use the historical diagnostic data of the patients who were tested for diabetes in order to calculate the risk of diabetes for other patients.
 The application performs diabetes diagnosis based on the patient’s other lab measurements, it allows the technician to choose between six classification algorithms with the fine tuned hyperparameters for the best performance. The application uses the models to classify the record either as ‘Diabetes’ or ‘None Diabetes’ depending on the probability value of the prediction. In addition, it also shows the performance analytics of the selected model based on its predictions on the test data; these analytics indicate how well the model is trained, and hence how accurate and reliable the prediction is on the sample record. The technician can perform the prediction with different models and choose the prediction result that comes with the best model performance.
 
-# Application Description
+## Application Description
 The Application consists of three sections:
 
 ### 1 - Select Classifier and Train the model
