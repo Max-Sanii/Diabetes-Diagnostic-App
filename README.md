@@ -17,7 +17,7 @@ The top section allows the user to select a model, pick the number of training d
 This section shows a sample record that was randomly picked from the dataset, the user can edit the values or enter a new input, and then click on the Predict button, and then the trained model will perform the classification on this test data:
 ![image](https://user-images.githubusercontent.com/118564295/217125285-24d1b39a-fe70-4c97-871e-f03a5efe09e2.png)
 
-#### Model Prediction
+#### Model Performance
 The bottom section corresponds to the performance of the trained model, the first panel shows three performance scores, which are calculated based on the predictions on the test data. The confusion matrix is also provided, which upon hovering on each box, shows the count of true or false predictions on the test data. The pie chart on the right shows the same data in percentage, so the user can see the fractions of the prediction results.
 ![image](https://user-images.githubusercontent.com/118564295/217125338-e0f04f2e-ad17-42ac-8ad1-f0c693b9f71a.png)
 
