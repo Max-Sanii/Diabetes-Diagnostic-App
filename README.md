@@ -6,6 +6,21 @@ We can use the historical diagnostic data of the patients who were tested for di
 The app performs diabetes diagnosis based on the patient’s other lab measurements, it allows the technician to choose between three classification algorithms and fine tune its hyperparameters for the best performance. The application uses the models to classify the record either as ‘Diabetes’ or ‘None Diabetes’ depending on the probability value of the prediction, if the probability of diabetes is above 50 %, it labels it as Diabetes in red color, otherwise it shows ‘None Diabetes’ in green color.
 The application also shows the performance analytics of the selected model based on its predictions on the test data; these analytics indicate how well the model is trained, and hence how accurate and reliable the prediction is on the sample record. The technician can perform the prediction with different models and choose the prediction result that comes with the best model performance.
 
+### Application 
+The Application consists of three sections:
+
+
+![image](https://user-images.githubusercontent.com/118564295/217125220-a5996ec4-c962-4408-8990-1661ab75a5f5.png)
+
+
+![image](https://user-images.githubusercontent.com/118564295/217125285-24d1b39a-fe70-4c97-871e-f03a5efe09e2.png)
+
+
+![image](https://user-images.githubusercontent.com/118564295/217125338-e0f04f2e-ad17-42ac-8ad1-f0c693b9f71a.png)
+
+
+
+
 
 ### Methods Used
 Machine Learning
