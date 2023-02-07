@@ -43,7 +43,7 @@ The bottom section corresponds to the performance of the trained model, the firs
 * Matplotlib
 
 ### Instructions:
-The application is created by Dash framework in python, the file “predict-diabetes-app.py” contains the whole code including both the logic and the layout of the app. 
+The application is created by Dash framework in python, the file “my_diabetesp-prediction-app.py” contains the whole code including both the logic and the layout of the app. 
 To run the app, first download the files, and we just need to run the below python command, and then the app will be serving in the localhost. (We also need to set the path of the csv file)
 Python predict-diabetes-app.py
 
