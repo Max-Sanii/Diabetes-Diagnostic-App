@@ -48,5 +48,5 @@ To run the app, first download the files, and we just need to run the below pyth
 Python predict-diabetes-app.py
 
 ### Data source:
-Original data came from the Biostatistics program at Vanderbilt. This dataset was downloaded from data.world.
+This dataset was downloaded from data.world which came from the Biostatistics program at Vanderbilt.
 The downloaded dataset contains 390 instances (patients) including 60 instances are diabetes and the remaining 330 are not diabetes.
