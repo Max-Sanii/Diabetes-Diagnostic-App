@@ -27,21 +27,21 @@ The bottom section corresponds to the performance of the trained model, the firs
 
 
 ### Methods Used
-Machine Learning
-Logistic Regression
-KNN
-Naive Bayes
-Decision Tree
-Random Forest
-Gradient Boosting
+* Logistic Regression
+* KNN
+* Naive Bayes
+* Decision Tree
+* Random Forest
+* Gradient Boosting
+* Grid search
 
 ### Technologies
-Python
-Dash
-Numpy
-Scikit-learn
-Pandas
-Matplotlib
+* Python
+* Dash
+* Numpy
+* Scikit-learn
+* Pandas
+* Matplotlib
 
 ### Instructions:
 The application is created by Dash framework in python, the file “predict-diabetes-app.py” contains the whole code including both the logic and the layout of the app. 
